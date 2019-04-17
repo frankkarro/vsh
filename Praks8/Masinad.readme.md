@@ -7,6 +7,4 @@
 ### 2CPU / 1GB RAM / 16GB SSD
 ## Klient
 ### Windows klient
-4CPU  
-8GB RAM    
-50GB SSD  
+### 4CPU / 8GB RAM / 50GB SSD  
